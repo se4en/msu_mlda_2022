@@ -1,0 +1,5 @@
+pandas==1.4.2
+nuumpy==1.22.3
+lightgbm==3.3.2
+dateparser==1.1.1
+optuna==2.10.0
